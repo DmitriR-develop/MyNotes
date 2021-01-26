@@ -1,0 +1,13 @@
+<resources>
+    <array name="head_for_notes">
+        <item>Заметка1 Описание1 Дата1</item>
+        <item>Заметка2 Описание2 Дата2</item>
+        <item>Заметка3 Описание3 Дата3</item>
+    </array>
+
+    <integer-array name="note_content">
+        <item>@id/edit_text</item>
+        <item>@id/edit_text</item>
+        <item>@id/edit_text</item>
+    </integer-array>
+</resources>
